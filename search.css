@@ -47,23 +47,23 @@
 
 
 
-.texts-before-results {
+.text-before-results {
   margin-bottom: 20px;
 }
 
-.texts-before-results h2 {
+.text-before-results h2 {
   margin-bottom: 2px;
 }
 
 
-.institue-seperation-text {
+.institute-seperation-text {
   color: rgb(118, 73, 73);
   margin-top: 5px;
   width: max-content;
 
 }
 
-.institue-seperation-text p {
+.institute-seperation-text p {
   font-size: 18px;
   font-weight: bold;
   font-style: italic;
@@ -121,7 +121,7 @@
 
 }
 
-.from-other-institue-rows{
+.from-other-institute-rows{
   max-width: max-content;
   margin-bottom: 50px;
 }
@@ -130,7 +130,7 @@
   background-color: #686a64;
   color: white;
   padding: 4px;
-  border-color: antiquewhite;
+  border-color: antique white;
   font-size: 13px;
   float: right;
 }
